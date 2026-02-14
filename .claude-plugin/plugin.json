@@ -1,7 +1,0 @@
-{
-  "name": "spanish-research-grants",
-  "version": "1.0.0",
-  "description": "Skill para preparar propuestas de investigación para convocatorias españolas (ISCIII, AEI). Cubre proyectos PI, PGC, becas y contratos del Sistema Nacional de Ciencia.",
-  "author": "Dr. Pablo Zulet Fraile",
-  "license": "MIT"
-}
