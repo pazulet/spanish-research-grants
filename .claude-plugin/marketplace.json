@@ -1,0 +1,22 @@
+{
+  "name": "spanish-research-grants",
+  "owner": {
+    "name": "Dr. Pablo Zulet Fraile",
+    "email": "pablozuletfraile@gmail.com"
+  },
+  "metadata": {
+    "description": "Skill para preparar propuestas de investigación para convocatorias españolas (ISCIII, AEI)",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "spanish-research-grants",
+      "description": "Guía completa para preparar propuestas de investigación para convocatorias españolas (ISCIII, AEI). Cubre proyectos PI, PGC, becas y contratos del Sistema Nacional de Ciencia.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/spanish-research-grants"
+      ]
+    }
+  ]
+}
